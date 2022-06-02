@@ -1,3 +1,5 @@
+/*general*/
+
 :root{
     --vermelho:#E50914;
     --preto:#141414;
@@ -12,8 +14,10 @@
 body{
     background: var(--preto);
     font-family: 'Times New Roman', Times, serif;
-
+    color: white;
 }
+
+/*header*/
 
 header .logo{
     margin-left: 5px;
@@ -40,3 +44,7 @@ header nav a{
 header nav a:hover{
     color:#fff;
 }
+
+/*movie*/
+
+
